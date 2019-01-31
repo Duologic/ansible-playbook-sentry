@@ -1,0 +1,12 @@
+[submodule "roles/redis"]
+	path = roles/redis
+	url = git@github.com:geerlingguy/ansible-role-redis.git
+[submodule "roles/postgresql_repository"]
+	path = roles/postgresql_repository
+	url = git@github.com:Duologic/ansible-role-postgreql-repository.git
+[submodule "roles/postgresql"]
+	path = roles/postgresql
+	url = git@github.com:geerlingguy/ansible-role-postgresql.git
+[submodule "roles/sentry"]
+	path = roles/sentry
+	url = git@github.com:Duologic/ansible-role-sentry.git
